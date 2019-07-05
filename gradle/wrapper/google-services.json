@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069603189229",
+    "firebase_url": "https://item-searcher-7b630.firebaseio.com",
+    "project_id": "item-searcher-7b630",
+    "storage_bucket": "item-searcher-7b630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069603189229:android:0ffc5a0f49cfe678",
+        "android_client_info": {
+          "package_name": "com.example.a.itemsearcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069603189229-8c322bkj2s2cut8trndbi278mprb318d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyPMttR3uFaY6zp4s1XzLrXyVCstZrpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069603189229-8c322bkj2s2cut8trndbi278mprb318d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
